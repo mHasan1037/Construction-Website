@@ -1,0 +1,22 @@
+.four-desc h5{
+    color: var(--bold-text);
+    font-weight: bold;
+}
+.four-desc .four-para{
+    margin: 15px 0;
+    color: var(--regular-text);
+}
+
+.four-check-box{
+    margin: 15px 0;
+}
+
+.four-check-box .fa-check{
+    color: var(--orange);
+    margin-right: 10px;
+}
+
+.four-check-box p{
+    line-height: 5px;
+    color: var(--regular-text);
+}
